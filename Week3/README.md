@@ -28,6 +28,7 @@ BrandID bilgisi verilen veriyi silmektedir.
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Delete.PNG)
 <br/><br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Select4.PNG)
+<br/><br/><br/>
 **Price Tablosu SELECT**<br/>
 Price tablosunun içeriğini döndürüyor.
 <br/>
