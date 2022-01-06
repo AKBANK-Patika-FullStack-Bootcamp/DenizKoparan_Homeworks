@@ -1,3 +1,8 @@
+**Tablolar**<br/>
+Oluşturulan tablolar;
+<br/>
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Tables.PNG)
+<br/><br/><br/>
 **SELECT**<br/>
 Tabloda ilk başta kayıtlı olan verileri döndürüyor.
 <br/>
@@ -23,3 +28,18 @@ BrandID bilgisi verilen veriyi silmektedir.
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Delete.PNG)
 <br/><br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Select4.PNG)
+**Price Tablosu SELECT**<br/>
+Price tablosunun içeriğini döndürüyor.
+<br/>
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Price.PNG)
+<br/><br/><br/>
+**INNER JOIN**<br/>
+Price tablosu ile Brand tablosunu birleştirmektedir.
+<br/>
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Join.PNG)
+<br/><br/><br/>
+**Diagram**<br/>
+Veritabanının diagramını göstermektedir.
+<br/>
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week3/Diagram.PNG)
+<br/><br/><br/>
