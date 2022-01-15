@@ -8,6 +8,7 @@ Eklenilen gözlük markalarından BrandID si parametreye eşit olanın özellikl
 <br/>
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
+<br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db1.PNG)
 <br/>
 **POST Request**<br/>
@@ -18,6 +19,7 @@ Eğer markalar arasında body'de gönderilen ID bilgisi hali hazırda varsa hata
 <br/>
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
+<br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db2.PNG)
 <br/>
 **PUT Request**<br/>
@@ -28,6 +30,7 @@ Eğer markalar arasında bodyde gönderilen ID bilgisi yoksa hata mesajı dönme
 <br/>
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
+<br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db3.PNG)
 <br/>
 **DELETE Request**<br/>
@@ -37,5 +40,7 @@ Eğer markalar arasında parametre olarak gönderilen ID bilgisi yoksa hata mesa
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/deleteWrong.PNG)
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
+<br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db4.PNG)
 <br/>
+
