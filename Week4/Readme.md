@@ -22,6 +22,17 @@ Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
 <br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db2.PNG)
 <br/>
+**DELETE Request**<br/>
+Eklenilen gözlük markalarına /Brand/{id} API ile DELETE request kullanılarak aşağıdaki görselde görüldüğü gibi seçilen marka özellikleri silinmektedir.
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/deleteSuccess.PNG)
+Eğer markalar arasında parametre olarak gönderilen ID bilgisi yoksa hata mesajı dönmektedir.
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/deleteWrong.PNG)
+**DB**<br/>
+Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
+<br/>
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db3.PNG)
+<br/>
+
 **PUT Request**<br/>
 Eklenilen gözlük markalarına /Brand API PUT request ve güncellenmek istenen markanın body bilgisi kullanılarak aşağıdaki görselde görüldüğü gibi seçilen marka özellikleri güncellenebilmektedir.
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/putSuccess.PNG)
@@ -32,15 +43,5 @@ Eğer markalar arasında bodyde gönderilen ID bilgisi yoksa hata mesajı dönme
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
 <br/>
 ![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db4.PNG)
-<br/>
-**DELETE Request**<br/>
-Eklenilen gözlük markalarına /Brand/{id} API ile DELETE request kullanılarak aşağıdaki görselde görüldüğü gibi seçilen marka özellikleri silinmektedir.
-![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/deleteSuccess.PNG)
-Eğer markalar arasında parametre olarak gönderilen ID bilgisi yoksa hata mesajı dönmektedir.
-![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/deleteWrong.PNG)
-**DB**<br/>
-Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
-<br/>
-![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db3.PNG)
 <br/>
 
