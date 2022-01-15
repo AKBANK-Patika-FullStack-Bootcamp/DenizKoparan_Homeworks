@@ -31,7 +31,7 @@ Eğer markalar arasında bodyde gönderilen ID bilgisi yoksa hata mesajı dönme
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
 <br/>
-![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db3.PNG)
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db4.PNG)
 <br/>
 **DELETE Request**<br/>
 Eklenilen gözlük markalarına /Brand/{id} API ile DELETE request kullanılarak aşağıdaki görselde görüldüğü gibi seçilen marka özellikleri silinmektedir.
@@ -41,6 +41,6 @@ Eğer markalar arasında parametre olarak gönderilen ID bilgisi yoksa hata mesa
 **DB**<br/>
 Yapılan işlemler sonrası veritabanındaki veriler aşağıdaki gibidir.
 <br/>
-![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db4.PNG)
+![text](https://github.com/AKBANK-Patika-FullStack-Bootcamp/DenizKoparan_Homeworks/blob/main/Week4/ScreenShots/db3.PNG)
 <br/>
 
